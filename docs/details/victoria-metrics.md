@@ -1,6 +1,6 @@
 # VictoriaMetrics
 
-[VictoriaMetrics](https://victoriametrics.github.io/) is a third-party monitoring solution and time-series database that replaced Prometheus in [PMM 2.12.0](../release-notes/2.12.0.md).
+[VictoriaMetrics](https://victoriametrics.com/) is a third-party monitoring solution and time-series database that replaced Prometheus in [PMM 2.12.0](../release-notes/2.12.0.md).
 
 ## Push/Pull modes
 
